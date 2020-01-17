@@ -9,11 +9,10 @@ Implementation of Vacant Spots detection in a Parking Lot along with the dynamic
 ### License Plate Detection: 
 1. Open ALPR
 
-
 #### GUI
 1. PyQt
 
-#####Installation:
+##### Installation:
 
  pip install mrcnn
  
@@ -22,7 +21,7 @@ Implementation of Vacant Spots detection in a Parking Lot along with the dynamic
  pip install tensorflow
  
  
-######  Snapshots
+###### Snapshots
 ![Architecture](https://user-images.githubusercontent.com/48072989/72577980-7dc5a000-3889-11ea-9543-5005886949b4.png)
 
  
