@@ -1,2 +1,13 @@
 # AI-Parking
 Implementation of Vacant Spots detection in a Parking Lot along with the dynamic pricing
+
+Object Detection Methods :
+1. Mask RCNN
+2. Yolo
+3. Keras
+License Plate Detection: 
+1. Open ALPR
+GUI
+1. PyQt
+
+
