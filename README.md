@@ -5,9 +5,21 @@ Object Detection Methods :
 1. Mask RCNN
 2. Yolo
 3. Keras
+
 License Plate Detection: 
 1. Open ALPR
+
+
 GUI
 1. PyQt
+
+Installation:
+
+ pip install mrcnn
+ 
+ pip install yolo
+ 
+ pip install tensorflow
+ 
 
 
