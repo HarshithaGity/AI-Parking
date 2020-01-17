@@ -22,8 +22,8 @@ Implementation of Vacant Spots detection in a Parking Lot along with the dynamic
  pip install tensorflow
  
  
- ######  Snapshots
- ![GUI](https://user-images.githubusercontent.com/48072989/72576488-c3cc3500-3884-11ea-848d-3a2df30d2113.jpeg)
+######  Snapshots
+![Architecture](https://user-images.githubusercontent.com/48072989/72577980-7dc5a000-3889-11ea-9543-5005886949b4.png)
 
  
 
